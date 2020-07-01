@@ -1,9 +1,10 @@
 {
-  "name": "mirko-comics",
+  "name": "chakra-ui-themes",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "license": "MIT",
   "scripts": {
-    "dev": "next dev -p 3003",
+    "dev": "next dev -p 3009",
     "build": "next build",
     "start": "next start"
   },
@@ -16,10 +17,8 @@
     "next": "9.4.4",
     "normalize.css": "^8.0.1",
     "postcss-modules": "^2.0.0",
-    "prismic-javascript": "^3.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-imgix": "^9.0.2",
     "sass": "^1.26.5"
   },
   "devDependencies": {
