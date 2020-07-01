@@ -1,0 +1,10 @@
+{
+  "themes": [
+    {
+      "title": "Test",
+      "npm": "chakra-theme-test",
+      "repo": "",
+      "author": ""
+    }
+  ]
+}
