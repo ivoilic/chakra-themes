@@ -1,10 +1,22 @@
 {
   "themes": [
     {
+      "title": "Original",
+      "packageName": "@chakra-ui/theme",
+      "repo": "https://github.com/charkra-ui/",
+      "author": "Chakra UI"
+    },
+    {
       "title": "Test",
-      "npm": "chakra-theme-test",
-      "repo": "",
-      "author": ""
+      "packageName": "chakra-theme-test",
+      "repo": "https://github.com/ivoilic/",
+      "author": "Ivo Ilić"
+    },
+    {
+      "title": "Pastel",
+      "packageName": "themes/chakra-theme-pastel",
+      "repo": "https://github.com/ivoilic/",
+      "author": "Ivo Ilić"
     }
   ]
 }
