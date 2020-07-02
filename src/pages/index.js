@@ -5,12 +5,7 @@ import * as Themes from '../themes.json';
 
 const PageHome = (props) => {
   const themes = Themes.themes.map((theme) => {
-    return (
-      <ThemeCard
-        key={theme.packageName}
-        theme={{ ...theme, thumbnail: `https://picsum.photos/seed/wow/1600/900` }}
-      />
-    );
+    return <ThemeCard key={theme.packageName} theme={theme} />;
   });
   return (
     <Page>

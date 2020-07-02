@@ -3,20 +3,26 @@
     {
       "title": "Original",
       "packageName": "@chakra-ui/theme",
-      "repo": "https://github.com/charkra-ui/",
-      "author": "Chakra UI"
+      "repo": "https://github.com/chakra-ui/chakra-ui",
+      "author": "Chakra UI",
+      "github": "chakra-ui",
+      "thumbnail": "https://picsum.photos/seed/wow/1600/900"
     },
     {
       "title": "Test",
       "packageName": "chakra-theme-test",
       "repo": "https://github.com/ivoilic/",
-      "author": "Ivo Ilić"
+      "author": "Ivo Ilić",
+      "github": "ivoilic",
+      "thumbnail": "https://picsum.photos/seed/wow/1600/900"
     },
     {
       "title": "Pastel",
       "packageName": "themes/chakra-theme-pastel",
       "repo": "https://github.com/ivoilic/",
-      "author": "Ivo Ilić"
+      "author": "Ivo Ilić",
+      "github": "ivoilic",
+      "thumbnail": "https://picsum.photos/seed/wow/1600/900"
     }
   ]
 }
