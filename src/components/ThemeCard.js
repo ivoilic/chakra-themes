@@ -78,10 +78,15 @@ const ThemeCard = (props) => {
             </MenuButton>
             <MenuList>
               <MenuItem onClick={copyThemePackageName}>Use Theme</MenuItem>
-              <MenuItem as="a" href={`https://www.npmjs.com/package/${packageName}`}>
+              <MenuItem
+                as="a"
+                href={`https://www.npmjs.com/package/${packageName}`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 NPM
               </MenuItem>
-              <MenuItem as="a" href={repo}>
+              <MenuItem as="a" href={repo} target="_blank" rel="noopener noreferrer">
                 Repo
               </MenuItem>
             </MenuList>
