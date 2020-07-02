@@ -10,12 +10,12 @@ To add a theme to Chakra Themes you need to submit a pull request with the follo
 
 ```json
 {
-  "title": "Some Name", // Theme Title
-  "packageName": "some-theme", // NPM Package Name
-  "repo": "https://github.com/janedoe/some-theme", // Public repository of the theme
-  "author": "Jane Doe", // The author
-  "github": "janedoe", // The authors GitHub username
-  "thumbnail": "https://picsum.photos/seed/wow/1600/900" // A 16:9 image showing off the theme
+  "title": Theme Title,
+  "packageName": NPM Package Name, //
+  "repo": Public repository of the theme,
+  "author": The author's name,
+  "github": The author's GitHub username,
+  "thumbnail":  A 16:9 image showing off the theme,
 }
 ```
 
